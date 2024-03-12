@@ -9,7 +9,6 @@ Features
     Settings: Users can customize settings such as units for distance measurement (kilometers or miles).
     Date Picker: Convenient date picker for selecting workout dates.
     Input Validation: Validation for ensuring only numeric values are accepted for distance and duration inputs.
-    Responsive Design: User-friendly interface with a clean and intuitive layout.
 
 Technologies Used
 
